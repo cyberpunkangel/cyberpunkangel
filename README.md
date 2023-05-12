@@ -1,3 +1,5 @@
+<a href="https://github.com/cyberpunkangel">![cyberpunkangel Profile GIF](./assets/header_github_profile.gif)</a>
+
 <h1 align="center">Hola 👋, soy Angel Lopez</h1>
 <h3 align="center">Apasionado por las tecnologías emergentes, soy un hombre autodidacta, con cualidades como atención al detalle, actitud investigadora y creatividad.</h3>
 
