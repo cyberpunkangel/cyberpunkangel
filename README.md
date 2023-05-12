@@ -1,6 +1,15 @@
+<!-- 
+GIF SECTION
+
+If you wanna know how i made this gif
+
+I made this with my repo: (https://github.com/cyberpunkangel/GitHub_ProfileReadmeGIF)
+Then, I raised it with vsc server and saved an mp4 file with a screen recorder, then converted it to gif format.
+ur welcome ;) 
+-->
+
 <a href="https://github.com/cyberpunkangel">![cyberpunkangel Profile GIF](./assets/header_github_profile.gif)</a>
 
-<h1 align="center">Hola 👋, soy Angel Lopez</h1>
 <h3 align="center">Apasionado por las tecnologías emergentes, soy un hombre autodidacta, con cualidades como atención al detalle, actitud investigadora y creatividad.</h3>
 
 - 🔭 Actualmente estudio herramientas DevOps **Kubernates, Amazon EKS, Azure AKS**
