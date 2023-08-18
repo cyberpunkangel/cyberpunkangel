@@ -12,7 +12,7 @@ ur welcome ;)
 
 <h3 align="center">Apasionado por las tecnologías emergentes, soy un hombre autodidacta, con cualidades como atención al detalle, actitud investigadora y creatividad.</h3>
 
-- 🔭 Actualmente estudio herramientas DevOps **Kubernates, Amazon EKS, Azure AKS**
+- 🔭 Actualmente estudio para obtener la certificación en  **Azure Developer Associate**
 
 - 🌱 Aprendiendo también sobre herramientas de IA **De texto, de imágen, de video, de audio.**
 
